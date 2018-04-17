@@ -2,7 +2,7 @@
 A two player arcade game inspired on the style of Tron: Legacy.
 
 # Try it yourself!
-To run it, simply download and execute the file 'Game.exe'.
+To run it, download the folder "Light Stream" and execute the file "Game.exe".
 
 # To access the source code
 Download and install a version of Turing from http://compsci.ca/holtsoft/ OR a version of Open Turing from http://tristan.hume.ca/openturing/.
